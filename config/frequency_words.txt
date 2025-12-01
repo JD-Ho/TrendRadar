@@ -19,6 +19,10 @@ AI编程
 bytedance
 张一鸣
 
+马化腾
+张小龙
+腾讯
+
 github copilot
 Trae
 通义
@@ -45,20 +49,8 @@ openai
 sora
 
 claude
-Anthropic
-
-iphone
-mac
-ios
 
 ai
 !gai
 人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
 
